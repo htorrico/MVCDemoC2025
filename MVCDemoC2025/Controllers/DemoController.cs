@@ -13,5 +13,10 @@ namespace MVCDemoC2025.Controllers
         {
             return View();
         }
+
+        public ActionResult Html()
+        {
+            return View();
+        }
     }
 }
